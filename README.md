@@ -25,6 +25,8 @@ This analysis provides an overview of the current operational status of MTA serv
 -	Metro-North and Staten Island Railway have the slowest recovery rate on average by 51.08% and 37.81% respectively, which is led by limited services areas.
 
 ****2. Temporal Analysis****
+![image](https://github.com/user-attachments/assets/251ac3f2-181b-4b23-8e73-3e392c5f4b80)
+
 - Overall, weekends consistently exhibit the fastest recovery across the season, peaking at 73%. However, across the service type, ridership in weekends is lower than in weekdays.
 -	In Autumn, the MTA services have the strongest rebound in recovery rate, followed by Winter. 
 1.	LIRR (Long Island Rail Road) – Subways – Buses
