@@ -9,6 +9,8 @@ The dataset contains around 1,700 records of systemwide ridership and pre-pandem
 This analysis provides an overview of the current operational status of MTA services after pandemic, with a focus on number of ridership/trips and recovery metrics.  Overall, the recovery percentage consistently improved by 62.53% on average from 2020 to 2024, peaking at 81%. While total ridership decreased slightly on 2024, the recovery percentage still shows a strong rebound post-pandemic. Across MTA service types, LIRR shows the fastest recovery, while Staten Island Railway has the slowest recovery 
 ## Insights Deep-Dive
 ****1. Ridership and Recovery Progress Trends by Service Types****
+![image](https://github.com/user-attachments/assets/f596f71f-063a-4d01-90e8-e070a395fff0)
+
 -	Access-A-Ride (AAR) and Bridges & Tunnels are the least likely to be impacted by pandemic with consistently high recovery rates, peaking at 120% and 101% respectively.
 => **How can stakeholders optimize these services to meet the growing demand?:** focus on improving infrastructure capacity and improving tolling systems to accommodate increased vehicle usage.
 
