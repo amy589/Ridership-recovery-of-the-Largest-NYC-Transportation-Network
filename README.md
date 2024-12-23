@@ -29,9 +29,8 @@ This analysis provides an overview of the current operational status of MTA serv
 
 - Overall, weekends consistently exhibit the fastest recovery across the season, peaking at 73%. However, across the service type, ridership in weekends is lower than in weekdays.
 -	In Autumn, the MTA services have the strongest rebound in recovery rate, followed by Winter. 
-1.	LIRR (Long Island Rail Road) – Subways – Buses
+- LIRR (Long Island Rail Road) – Subways – Buses
 LIRR has higher recovery rate in weekend compared to that of Subways and Buses. This may led by leisure activities or long-distance travel in weekends to suburban getaway destinations
-2. 
 
 ## Recommendations
 **Enhance weekend services:** increase the service frequency at weekends, given the higher recovery rates across the service types. Especially those with faster recovery rate such as LIRR, Bridges and Tunnels, AAR.  
