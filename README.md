@@ -15,11 +15,14 @@ This analysis provides an overview of the current operational status of MTA serv
 => **How can stakeholders optimize these services to meet the growing demand?:** focus on improving infrastructure capacity and improving tolling systems to accommodate increased vehicle usage.
 
 -	Subways and Buses show slower recovery rates by 71% and 60% respectively despite accounting for the highest number of ridership. This could be influenced by remote work and changing commuting habits after pandemic. 
+
 => **How can stakeholders adapt subways and buses service to accommodate new commuting habits, such as remote work?** Introducing flexible schedules and pricing models such as fiscounts for off-peak travel.  Increasing service frequency during busy times.
+
 => **What can be done to make commuters feel safer and more confident using subways and buses?** Focusing on cleanliness, better air quality and clear safety measures. Additionally, managing crowding and offering real-time updates can make the travelling experience more comfortable, encourage people to use public transport.
 
 -	LIRR is the fastest service in rebounding back to usual ridership, peaking at 88% in 2024.
 => **Why?** The Long Island Rail Road has recovered more quickly, which is driven by improvement on the number of delays, cancellations and termination according to DiNapoli’s Report. It serves areas where driving alternatives are less convenient, making rail travel a preferred option. Additionally, LIRR’s infrastructure and direct service to key business hubs like Manhattan supported its recovery.
+
 => **So what?**: stakeholders can take advantage of its strong recovery by investing in service improvement such as increasing train frequency and onboard amenities. 
 
 -	Metro-North and Staten Island Railway have the slowest recovery rate on average by 51.08% and 37.81% respectively, which is led by limited services areas.
