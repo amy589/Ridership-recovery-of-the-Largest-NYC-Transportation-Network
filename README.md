@@ -12,6 +12,7 @@ This analysis provides an overview of the current operational status of MTA serv
 ![image](https://github.com/user-attachments/assets/f596f71f-063a-4d01-90e8-e070a395fff0)
 
 -	Access-A-Ride (AAR) and Bridges & Tunnels are the least likely to be impacted by pandemic with consistently high recovery rates, peaking at 120% and 101% respectively.
+
 => **How can stakeholders optimize these services to meet the growing demand?:** focus on improving infrastructure capacity and improving tolling systems to accommodate increased vehicle usage.
 
 -	Subways and Buses show slower recovery rates by 71% and 60% respectively despite accounting for the highest number of ridership. This could be influenced by remote work and changing commuting habits after pandemic. 
