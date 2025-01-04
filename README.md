@@ -21,6 +21,7 @@ This analysis provides an overview of the current operational status of MTA serv
 => **What can be done to make commuters feel safer and more confident using subways and buses?** Focusing on cleanliness, better air quality and clear safety measures. Additionally, managing crowding and offering real-time updates can make the travelling experience more comfortable, encourage people to use public transport.
 
 -	LIRR is the fastest service in rebounding back to usual ridership, peaking at 88% in 2024.
+
 => **Why?** The Long Island Rail Road has recovered more quickly, which is driven by improvement on the number of delays, cancellations and termination according to DiNapoli’s Report. It serves areas where driving alternatives are less convenient, making rail travel a preferred option. Additionally, LIRR’s infrastructure and direct service to key business hubs like Manhattan supported its recovery.
 
 => **So what?**: stakeholders can take advantage of its strong recovery by investing in service improvement such as increasing train frequency and onboard amenities. 
