@@ -39,7 +39,9 @@ LIRR has higher recovery rate in weekend compared to that of Subways and Buses. 
 
 ## Recommendations
 **Enhance weekend services:** increase the service frequency at weekends, given the higher recovery rates across the service types. Especially those with faster recovery rate such as LIRR, Bridges and Tunnels, AAR.  
+
 **Understand service quality and upgrade accordingly:** for example, consider investing in expanding or upgrading infrastructure for services with lower weekend like Staten Island Railway or Metro-North. This may require further analysis regarding current travel behaviour such as travel purpose, distance, cost, etc. 
+
 **Adjust schedules for most popular service types like Subways and Buses:** by using the temporal analysis regarding daily travelling patterns, MTA could effectively manage overcrowding, optimize for peak recovery and improve customer satisfaction. 
 ## Questions for stakeholders for further analysis
 1.	Do you have any specific targeted recovery rate for each service type? Are these targets adjusted for seasonal or geographical factors
